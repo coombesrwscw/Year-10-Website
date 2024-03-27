@@ -1,1 +1,32 @@
-
+body {
+  background: #edfaff;
+}
+h1 {
+  font-weight: bold;
+  color: #034279
+}
+p {
+  color: black;
+  font: cursive;
+}
+h2 {
+  font: cursive;
+  font-weight: bold;
+  color: #000000;
+}
+.story-title{
+  border: solid 50px;
+  border-color: #ffffdd;
+  border-radius: 20px;
+  color: #191700;
+  font-family: sans-serif;
+  background-color: #ffffdd;
+}
+.story{
+  border: solid 50px;
+  border-color: #ffffdd;
+  border-radius: 20px;
+  color: #191700;
+  font-family: cursive;
+  background-color: #ffffdd;
+}
