@@ -30,3 +30,11 @@ h2 {
   font-family: cursive;
   background-color: #ffffdd;
 }
+.formular{
+  color: #000000;
+  font-family: cursive;
+  border-radius: 10px;
+  border: solid 5px;
+  border-color: #000000;
+  background-color: #ffffff;
+}
