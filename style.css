@@ -39,5 +39,7 @@ h2 {
   background-color: #ffffff;
 }
 .credit{
-  color: #80383800
+  color: #80383800;
+  font-family: cursive;
+  text-size-adjust: 5px;
 }
