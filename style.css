@@ -1,45 +1,49 @@
 body {
-  background: #949494;
+  background: #262626;
 }
 h1 {
   font-weight: bold;
-  color: #034279
+  color: #cdabf7
 }
 p {
-  color: black;
+  color: white;
   font: cursive;
 }
 h2 {
   font: cursive;
   font-weight: bold;
-  color: #000000;
+  color: #ffffff;
 }
-.story-title{
+.story-title {
   border: solid 50px;
   border-color: #ffffdd;
   border-radius: 20px;
-  color: #191700;
+  color: #ffffff;
   font-family: sans-serif;
-  background-color: #ffffdd;
+  background-color: #000000;
 }
-.story{
+.story {
   border: solid 50px;
   border-color: #ffffdd;
   border-radius: 20px;
-  color: #191700;
+  color: #ffffff;
   font-family: cursive;
-  background-color: #ffffdd;
+  background-color: #000000;
 }
-.formular{
-  color: #000000;
+.formular {
+  color: #ffffff;
   font-family: cursive;
   border-radius: 10px;
   border: solid 5px;
-  border-color: #000000;
-  background-color: #ffffff;
+  border-color: #ffffff;
+  background-color: #000000;
 }
-.credit{
+.credit {
   color: #ff0000;
   font-family: cursive;
   text-size-adjust:30px;
+}
+a {
+  color: #b8feff;
+  text-decoration: none;
 }
